@@ -59,6 +59,6 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 </div>
 
-## Girhub Profile Trophy
+## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VeronikaPotseichuk&title=Experience&title=Commit&title=Joined2020&title=PullRequest&title=Repositories&theme=white)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
