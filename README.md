@@ -8,8 +8,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=VeronikaPotseichuk&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  hey there
+
+<h1> 
+  𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒩𝒾𝓀𝒶
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -51,9 +52,13 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ## :fire: My Stats :
 
 <div align="center">
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeronikaPotseichuk&theme=white&background=ffffff)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeronikaPotseichuk&theme=vision-friendly-white&background=nord_bright)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaPotseichuk&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+## Girhub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VeronikaPotseichuk&title=Experience&title=Commit&title=Joined2020&title=PullRequest&title=Repositories&theme=white)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
