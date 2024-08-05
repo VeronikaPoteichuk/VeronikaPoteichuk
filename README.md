@@ -49,7 +49,11 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 </div>
 
 ## :fire: My Stats :
-  
+
+<div align="center">
+    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeronikaPotseichuk&theme=white&background=ffffff)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaPotseichuk&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
