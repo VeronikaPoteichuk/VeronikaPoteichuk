@@ -18,7 +18,7 @@
   <img src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA"/>
 </div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :woman_student: I have a degree in software engineering.
@@ -29,7 +29,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/veronika-potseichuk/)
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
@@ -48,7 +48,7 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeronikaPotseichuk&theme=white&background=ffffff)](https://git.io/streak-stats)
 
