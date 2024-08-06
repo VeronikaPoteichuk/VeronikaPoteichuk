@@ -53,12 +53,14 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <div align="center">
 
+![LeetCode Stats](https://leetcode.card.workers.dev/veronikapotseichuk?theme=default&font=source_code_pro&extension=activity)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeronikaPotseichuk&theme=vision-friendly-white&background=nord_bright)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronikaPotseichuk&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-## 🏆 Github Profile Trophy
+## 🏆 Github Profile Trophy :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VeronikaPotseichuk&title=Experience&title=Commit&title=Joined2020&title=PullRequest&title=Repositories&theme=white)](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
